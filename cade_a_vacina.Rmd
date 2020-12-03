@@ -1,0 +1,20 @@
+---
+title: "Cadê a vacina?"
+author: ""
+date: ""
+output: 
+  html_document:
+    highlight: espresso
+    theme: spacelab
+---
+#### Mário Rutman
+#### `r format(Sys.Date(), '%d-%b-%Y')`. 
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+### Sair dessa _bad trip_, respirar sem medo, fazer aglomerações felizes, voar também, rolar na areia, na grama, chega dessa atmosfera viciada.
+
+### A ideia é viralizar uma campanha de vacinação contra Covid-19, sendo simples e direto.
+
+### A cena básica será uma pessoa questionando 'Cadê a Vacina?' ao mesmo tempo que levanta a manga da camisa e aponta o lugar para aplicação da vacina.
